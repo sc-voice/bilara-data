@@ -632,7 +632,7 @@
     ],
     "text_uid": "blurb",
     "text_title": "Blurbs",
-    "is_published": "false",
+    "is_published": "true",
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -816,7 +816,7 @@
     "text_title": "",
     "text_subtitle": "",
     "text_description": "",
-    "is_published": "false",
+    "is_published": "true",
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -841,7 +841,7 @@
     "text_title": "",
     "text_subtitle": "",
     "text_description": "",
-    "is_published": "false",
+    "is_published": "true",
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -864,7 +864,7 @@
     "author_github_handle": "sabbamitta",
     "text_uid": "dhp",
     "text_title": "",
-    "is_published": "false",
+    "is_published": "true",
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -887,7 +887,7 @@
     "author_github_handle": "sabbamitta",
     "text_uid": "iti",
     "text_title": "",
-    "is_published": "false",
+    "is_published": "true",
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -910,7 +910,7 @@
     "author_github_handle": "sabbamitta",
     "text_uid": "snp",
     "text_title": "",
-    "is_published": "false",
+    "is_published": "true",
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -933,7 +933,7 @@
     "author_github_handle": "sabbamitta",
     "text_uid": "ud",
     "text_title": "",
-    "is_published": "false",
+    "is_published": "true",
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -956,7 +956,7 @@
     "author_github_handle": "sabbamitta",
     "text_uid": "kp",
     "text_title": "",
-    "is_published": "false",
+    "is_published": "true",
     "publication_status": "",
     "licence": "CC0",
     "edition": [

@@ -21,6 +21,7 @@ blau Seerosen
 blind
 bodhisattva|bodhisatta
 Dachsparren
+daraus jedes Gefäß herstellen
 das Auge brennt
 das Auge, die Bilder und die Fessel
 das Erste gibt
@@ -36,6 +37,7 @@ dhamma|dharma
 dich bekümmern
 die Besinnung auf
 die Ethik eines Menschen
+die Kugel aus Seifenpulver
 die Meditation unterstützen
 die Nonne kennt mich
 diese Gabe gebe
@@ -48,9 +50,13 @@ drei Menschen
 drei Vorführungen
 Dunkelheit Licht
 Dunklen auf dem Weg zum Licht
+durch die Wüste entlangwanderte
 durch Vertrauen befreit
 edle rechte Versenkung entwickel
+einen Schilfhalm aus seiner Scheide
 ein gerechter und rechtmäßiger König
+ein Stelzen-Langhaus am zentralen Platz
+ein tiefer See, der von einer Quelle gespeist
 einzig der Schönheit zugeneigt
 Entscheidungen als
 erbärmlich
@@ -70,6 +76,7 @@ Frausein
 Frucht des Gebens
 Früchte des Gebens
 Gaben spendet
+gedeihen unter Wasser
 gegen den Strom
 Gegenstände zur Besinnung
 geheimen und öffentlichen
@@ -78,6 +85,7 @@ geistgeschaffen Körper
 geschlossene Faust eines Lehrers
 gesund
 Gewinn und Verlust
+gewissenhaft und gütig
 Gewissen und Zurückhaltung
 gibt dem Besten
 gibt es das Erdelement
@@ -91,16 +99,22 @@ gut befreit
 haare berge
 halten es auch für wert
 hat aufgehört
+hätte wieder Appetit und käme zu Kräften
 herausragende Leidenschaft
 herr des waldes
 Herzenswunsch eines sittlichen Menschen
 Holz
 ich bin in die Strömung der Lehre
 ich empfinde ein angenehmes Gefühl
+ihr Heimatdorf verließe und zu einem anderen
+ihr Spiegelbild betrachten
 im Leiden verstrickt
 in bester Absicht
 in äußeren Dingen
 in die Pflicht
+in einem Gefängnis eingesperrt
+Innern ein Glück, das ohne Tadel ist
+in Schulden geraten
 isst, was nicht zu tadeln ist
 jegliche Art von Form
 jemand anderen vom Geben abhält
@@ -122,6 +136,7 @@ mir hinterherzulaufen
 mit dem Ohr gefolgt
 mittlere.* Weg
 möglich zu entwickeln
+Muschelschalen, Steine und Kiesel
 Nahrung für Unwissenheit
 Neigung zur Einbildung
 nicht beschämend
@@ -137,6 +152,7 @@ sag Wahrheit
 sammosa
 schmerzhafte erfreuliche Entscheidungen
 schenkt Schönheit
+Schmuckstück aus Beryll von natürlicher Schönheit
 schwer einatmet, weiß
 schwer zu erfüllen
 schwer zu erreichen
@@ -160,6 +176,7 @@ Traurigkeit, die mit Sinnlichkeit
 um die Wesen zu läutern
 Umfang der Weisheit
 um mehr materiellen Besitz
+unabhängig und frei, und könnte gehen
 unbedingt
 ungerichtet
 Unglück der Vielen
@@ -176,6 +193,7 @@ Versenkung ist friedvoll
 Versenkung besitzt
 versteht wirklich: ‚Das ist Leiden.‘
 vertrauensvolle Hausbesitzer
+verzichtet auf Stock und Schwert
 viel Leiden und Bedrängnis
 vier Arten der Suche
 vier edle Wahrheiten
@@ -184,6 +202,8 @@ voller Freude über die Lehre
 voller Freude und Wonne
 von den Fußsohlen aufwärts
 von Groll los
+von keiner Seite etwas zu befürchten
+von Kopf bis Fuß in ein weißes Tuch
 von Nahrung erhalten
 Wahrnehmung des Hässlichen
 Wald
@@ -198,6 +218,7 @@ wenn der Faktor des Erwachens Achtsamkeit
 wenn die sechs Sinnesfelder schwinden
 wenn dieses besteht, ist jenes
 wenn die Weisheit verschwindet
+wenn ein Mensch eine Straße entlangwanderte
 Wenn ich betrübt wäre und jammern
 wenn ich diese Gabe gebe
 wenn ich so übe

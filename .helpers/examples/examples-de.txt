@@ -143,6 +143,7 @@ Kraft der Weisheit
 Kraft des Vertrauens
 krank
 Krankheit Eiterherd Pfeil
+Krongut
 lachende Weisheit
 Läuterung der Ansicht
 Leiden vieler Menschen
@@ -176,6 +177,7 @@ richtig eingeprägt
 Riese
 sag Wahrheit
 sammosa
+schädlichen Irrglauben
 schmerzhafte erfreuliche Entscheidungen
 schenkt Schönheit
 Schmuckstück aus Beryll von natürlicher Schönheit

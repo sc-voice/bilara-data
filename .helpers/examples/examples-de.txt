@@ -52,6 +52,7 @@ die Nonne kennt mich
 diese Gabe gebe
 dieser Körper hat dieselbe Natur
 dieses verdammte Ding
+diese.* vier edlen Wahrheiten
 die Sorgen vieler zerstört
 die Tore zur Unsterblichkeit
 die Weisen geben
@@ -242,7 +243,6 @@ vertrauensvolle Hausbesitzer
 verzichtet auf Stock und Schwert
 viel Leiden und Bedrängnis
 vier Arten der Suche
-vier edle Wahrheiten
 vier Grundlagen
 voller Freude über die Lehre
 voller Freude und Wonne

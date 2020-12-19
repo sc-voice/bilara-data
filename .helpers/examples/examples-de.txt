@@ -25,7 +25,6 @@ blind
 bodhisattva|bodhisatta
 brach in Tränen aus
 Dachsparren
-darauf verlasse
 daraus jedes Gefäß herstellen
 das Auge brennt
 das Auge, die Bilder und die Fessel
@@ -234,6 +233,7 @@ unverdientes Leid zufügt
 Verantwortung
 Vereinigung
 Verlangen wird aufgegeben
+verlasse.* darauf
 vermöchte zu tadeln
 Verschwinden der wahren Lehre
 Versenkungszustand

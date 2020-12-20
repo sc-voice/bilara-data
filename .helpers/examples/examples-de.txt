@@ -151,7 +151,7 @@ königliches Gut
 Kopf in Flammen
 Kraft der Weisheit
 Kraft des Vertrauens
-Krankheit Eiterherd Pfeil
+Krankheit.* Eiterherd.* Pfeil
 lachende Weisheit
 lass uns unsere Bündel zurücklassen
 Läuterung der Ansicht

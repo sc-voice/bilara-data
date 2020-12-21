@@ -189,7 +189,7 @@ Rad-drehend.* Herrscher
 rascher Einsicht
 richtig eingeprägt
 Riese
-sag Wahrheit
+sag.* die Wahrheit
 sammosa
 schädlichen Irrglauben
 Schlange Skorpion Tausendfüßler

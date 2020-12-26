@@ -54,7 +54,6 @@ die Nonne.* kennt mich
 diese Gabe gebe
 dieser Körper hat dieselbe Natur
 dieses verdammte Ding
-dieses Weltall sich zusammenzieht
 diese.* vier edlen Wahrheiten
 die Sorgen vieler zerstört
 die Tore zur Unsterblichkeit
@@ -273,6 +272,7 @@ Wasser, das von Moos und Wasserpflanzen
 Wasser, das trüb, dunkel und schmutzig ist
 weder sich noch andere zu quälen
 Weisheit auf dem Schoß
+Weltall sich zusammenzieht
 wenige Wünsche zu haben
 wenig gelernt
 wenig Sand in den Augen

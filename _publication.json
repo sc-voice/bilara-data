@@ -258,7 +258,7 @@
     "author_github_handle": "sujato",
     "text_uid": "dhp",
     "text_title": "Sayings of the Dhamma",
-    "is_published": "false",
+    "is_published": "true",
     "publication_status": "",
     "licence": "CC0",
     "edition": [
@@ -569,7 +569,7 @@
     "author_github_handle": "sujato",
     "text_uid": "iti",
     "text_title": "So It Was Said",
-    "is_published": "false",
+    "is_published": "true",
     "publication_status": "",
     "licence": "CC0",
     "edition": [

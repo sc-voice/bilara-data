@@ -514,6 +514,11 @@
     "translation_process": "",
     "translation_description": "",
     "is_published": "false",
+    "publish": [ 
+        "an4/an4.182",
+        "an4/an4.58",
+        "an11/an11.15"
+    ],
     "publication_status": "",
     "license": {
       "license_type": "Creative Commons Zero",
